@@ -1,12 +1,11 @@
 # nap.is.being.pet
 
-pat the nap
+Pat the nap
 
-some emojis to enjoy
+## Some emojis
+1. Animals: 🐸🐯🐈
+2. Moon: 🌚🌑🌒🌓🌔🌕🌖🌗🌘🌔
+3. Earth: 🌍🌎🌏
 
-animals i love 🐸🐯🐈
-i love moon 🌚🌑🌒🌓🌔🌕🌖🌗🌘🌔
-i love the earth 🌍🌎🌏
 
-
-i love the hackers who enjoy the life (you :3) 💮
+💮 Thanks for visiting 💮
